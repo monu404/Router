@@ -19,7 +19,7 @@ function Contact() {
    <Head></Head>
 
      <section>
-             <h1>Contact page</h1>
+             <h1>this is your contact page</h1>
              <button onClick={btnclick}>click me</button>
         </section>
     </>
