@@ -16,7 +16,7 @@ function About() {
       <Head></Head>
       <section>
 
-        <h1>Introduction page</h1>
+        <h1>Himanshu monu</h1>
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus quia corporis blanditiis dolor, placeat omnis soluta veniam optio repudiandae provident. Hic expedita distinctio adipisci praesentium placeat, facere quis odio vel!</p>
         <button onClick={click}>click me</button>
       </section>
